@@ -19,7 +19,7 @@ sudo apt-get install python3-pip python3-wxgtk4.0 ; pip3 install vpython # From 
 
 ```bash
 cd ~/catkin_workspace/src
-git clone https://github.com/KristofRobot/razor_imu_9dof.git
+git clone https://github.com/lebarsfa/razor_imu_9dof.git
 cd ..
 catkin_make
 # For 3D visualization, from Ubuntu 20.04
